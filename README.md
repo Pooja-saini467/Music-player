@@ -16,7 +16,7 @@
 - Fully responsive music player.
 
 ## screenshot
-<img src="">
+<img src="https://github.com/Pooja-saini467/Music-player/blob/main/images/Screenshot%20(26).png">
 
 ## Demo
 
